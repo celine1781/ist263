@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html> 
+<head>
+<meta charset="utf-8">
+<h1>Continuously Couture</h1>
+<h2>This Seasons Couture</h2>
+<style>
+    table, td, th {border: 1px solid black ; }
+</style>
+</head> 
+<body>
+    <table>
+        <caption>Collection of Designers</caption>
+        <tr>
+            <th>Designer</th>
+            <th>Population</th>
+            <th>% of World Population</th>
+        </tr>
+        <tr> 
+            <td>Chanel</td>
+            <td>Maurizio Galante</td>
+            <td>Atelier Gustavolins</td>
+            <td>Bouchra Jarrar</td>
+            <td>Alexis Mabille</td>
+        </tr>
+        <tr> 
+            <td>Alexandre Vauthier</td>
+            <td>Frank Sorbier</td>
+            <td>Christian Dior</td>
+            <td>Jean Paul Gaultier</td>
+            <td>Stéphane Rolland</td>
+        </tr>
+        <tr> 
+            <td>Givenchy</td>
+            <td>Adeline André</td>
+            <td>Julien Fournié </td>
+            <td>Serkan Cura </td>
+            <td>Maison Rabih Kayrouz </td>
+        </tr>
+        <tr> 
+            <td>Zuhair Murad</td>
+            <td>Schiaparelli</td>
+            <td>Rad Hourani</td>
+            <td>Iris van Herpen</td>
+            <td>On Aura Tout Vu</td>
+        </tr>
+        <tr> 
+            <td>Yiqing Yin </td>
+            <td>Marco Zanini</td>
+            <td>Béatrice Demulder Ferrant</td>
+            <td>Ralph & Russo</td>
+            <td>Hervé L. LeRoux</td>
+        </tr>
+    </table><br> 
+
+    <h3>Couture</h3>
+    <p>Couture is the reason you picked the shirt you are wearing today. Fashion in general looks up to high fashion and follows the trends they set. The reason you like a certain color or deisgn of a particularly clothing was decided by the people who truly understand the art of fashion. Couture is exclusive yet inclusive and allows us to express ourselves with art on our bodies everyday.</p>
+</body>
+</html>

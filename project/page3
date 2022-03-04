@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html> 
+<head>
+<meta charset="utf-8">
+<h1>This Months Hottest Designer</h1>
+<h2>Why this designer?</h2>
+<body>
+    </body>head>
+<p> This will go on an explain why this designer is the hottest Couture designer of the month. Focus on theri successes.</p>
+
+<form action="" method="post"></form>
+<!-- label tell suser what to enter, for links the label to the form element velaue in for must match value in input id (use for after label to link them)-->
+    <label for="Do you agree?">Do you agree?</label><br>
+    <input tyoe="text" id="fullname" name="fullname"><br>
+   
+</body>
+</html>
