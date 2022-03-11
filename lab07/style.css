@@ -1,13 +1,13 @@
 body {font-family: Georgia,'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; background-color: #2e0916}
 h1, hr {color: #bdacb2;}
-.evenrow{background-color: #802847;}
+.evenrow{background-color: #debdd6;}
 h1 {font-size: 3em;}
 h2 {font-size: 1em;} 
 p {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
 p, ul, td, th {color: #adadad;}
 a {color: #255234;}
 p{color: #2d633f;}
-nav {background-color: #ad9e76;}
+nav {background-color: #fae6f5;}
 nav {padding: 10px; margin-bottom: 30px;}
 nav a {color: #ab3e8a;}
 nav a:hover {background-color: #d64fad;}
