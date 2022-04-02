@@ -1,0 +1,20 @@
+body {font-family: Georgia,'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; background-color: #2e0916}
+h1, hr {color: #bdacb2;}
+.evenrow{background-color: #debdd6;}
+h1 {font-size: 2.5em;}
+h2 {font-size: 1em;} 
+p {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+p, ul, td, th {color: #adadad;}
+a {color: #255234;}
+p{color: #2d633f;}
+nav {background-color: #fae6f5;}
+nav {padding: 10px; margin-bottom: 30px;}
+nav a {color: #ab3e8a;}
+nav a:hover {background-color: #d64fad;}
+nav {margin-bottom: 30px}
+.header {display:flex; justify-content: center;}
+.flexbox1 {display: flex; flex: 3;justify-content: space-between; margin-top: 50px;}
+.OtherSkills {background-color: #bdacb2 ;border-radius: 1em;margin: 0 auto; flex: 1;padding: 10px;}
+.flexbox2 {display:flex; margin: 15px; padding: 15px;}
+
+ 
