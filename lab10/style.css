@@ -17,4 +17,8 @@ nav {margin-bottom: 30px}
 .OtherSkills {background-color: #bdacb2 ;border-radius: 1em;margin: 0 auto; flex: 1;padding: 10px;}
 .flexbox2 {display:flex; margin: 15px; padding: 15px; justify-content: space-around;}
 .imageflex {display: flex; justify-content: center; max-width: 100%;width:100%;}
- 
+
+ @media only screen and (max-width:1024px) {
+     nav a {display:block;padding:10px;}
+     nav span {display:none;}
+ }
