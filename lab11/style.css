@@ -1,4 +1,4 @@
-body {font-family: Georgia,'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; background-color: #3e1322}
+body {font-family: Georgia,'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; background-color: #4b0a2a}
 h1, hr {color: #bdacb2;}
 h2, h3, h4 {color: #3d7c69;}
 footer {color: #e6f0e8;}
@@ -9,17 +9,17 @@ h3 {font-size: 2em;}
 h4 {font-size: 1.5em}
 p {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
 p, ul, td, th, dl, dt {color: #adadad;}
-a {color: #634243;}
+a {color: #a37173;}
 p{color: #e6f0e8;}
-body {color: #9f4868;}
-nav {background-color: #f8e5f3;}
+body {color: #d3a7be;}
+nav {background-color: #380620;}
 nav {padding: 10px; margin-bottom: 30px;}
 nav a {color: #ab3e8a;}
 nav a:hover {background-color: #d64fad;}
 nav {margin-bottom: 30px}
 .header {display:flex; justify-content: center;}
 .flexbox1 {display: flex; flex: 3; justify-content: space-between; margin-top: 50px;}
-.OtherSkills {background-color: #bdacb2 ;border-radius: 1em;margin: 0 auto; flex: 1;padding: 10px;}
+.OtherSkills {background-color: #4f192c ;border-radius: 1em;margin: 0 auto; flex: 1;padding: 10px;}
 .flexbox2 {display:flex; margin: 15px; padding: 15px; justify-content: space-around;flex-wrap: wrap;}
 .imageflex {display: flex; justify-content: center; max-width: 100%;width:100%;}
 
