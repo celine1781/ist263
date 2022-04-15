@@ -19,7 +19,7 @@ nav a:hover {background-color: #d64fad;}
 nav {margin-bottom: 30px}
 .header {display:flex; justify-content: center;}
 .flexbox1 {display: flex; flex: 3; justify-content: space-between; margin-top: 50px;}
-.OtherSkills {background-color: #4f192c ;border-radius: 1em;margin: 0 auto; flex: 1;padding: 10px;}
+.OtherSkills {background-color: #411625; border-radius: 1em;margin: 0 auto; flex: 1;padding: 10px;}
 .flexbox2 {display:flex; margin: 15px; padding: 15px; justify-content: space-around;flex-wrap: wrap;}
 .imageflex {display: flex; justify-content: center; max-width: 100%;width:100%;}
 
