@@ -2,7 +2,9 @@ body {font-family: Georgia,'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande
 h1, hr {color: #bdacb2;}
 .evenrow{background-color: #debdd6;}
 h1 {font-size: 2.5em;}
-h2 {font-size: 1em;} 
+h2 {font-size: 2em;} 
+h3 {font-size: 2em;}
+h4 {font-size: 2em}
 p {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
 p, ul, td, th {color: #adadad;}
 a {color: #255234;}
@@ -21,5 +23,4 @@ nav {margin-bottom: 30px}
  @media only screen and (max-width:1024px) {
      nav a {display:block;padding:10px;}
      nav span {display:none;}
- }
- 
+    }
