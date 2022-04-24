@@ -13,5 +13,5 @@ p {
 }
 nav {margin:0 auto; padding-right: 210px;}
 
-.content{display: flex;
+.bodycontent{display: flex;
         flex-wrap: wrap}
