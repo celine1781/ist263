@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Part 2</title>
+    <!-- 
+        Css
+        1. Hamburger does nt dipslay when screen is large
+        2. Display hmaburger when screen is small
+        3. Nav across screen at at large 
+        4. Nav stacks when small
+        5. Nav hides when screen is small 
+        6. when they click on the hanburger nav shows
+    -->
+    <style>
+        #hamburger {
+            width: 40px;
+            display: none;
+        
+        }
+        #navlinks a {
+            background-color: orange;
+            padding: 10px;
+            margin: 5px;
+        }
+        @media only screen and (max-width: 600px) {
+            #hamburger {display: block;}
+            #navlinks a {display: block;}
+            #navlinks {display: none;}
+        }
+    </style>
+    <script>
+        function toggleNav() {
+            /* check if the nav is on*/
+            if (document.getElementById("navlinks").style.getPropertyValue("display")
+            == 'block') {
+                document.getElementById("navlinks").style.display="none";
+            }
+            else {
+            document.getElementById("navlinks").style.display="block";
+        }
+    </script>
+</head>
+<body>
+    <nav>
+        <img src="https://laferger.github.io/ist263/images/hamburger.png" alt="hamburger icon" id="hamburger" onclick="toggleNav();">
+        <div id="navlinks">
+        <a href="index.html">Home</a> <span> </span>
+        <a href="skills.html">Skills</a> <span> </span>
+        <a href="contact.html">Contact</a> <span> </span>
+    </div>
+    </nav>
+</body>
+</html>
