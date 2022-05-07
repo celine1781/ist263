@@ -55,7 +55,7 @@ img {vertical-align: middle;}
   width: auto;
   margin-top: -22px;
   padding: 16px;
-  color: white;
+  color: rgb(21, 1, 20);
   font-weight: bold;
   font-size: 18px;
   transition: 0.6s ease;
@@ -69,7 +69,7 @@ img {vertical-align: middle;}
 }
 
 .prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(238, 228, 235, 0.8);
 }
 
 .numbertext {
