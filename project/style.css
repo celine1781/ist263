@@ -23,7 +23,7 @@ nav {margin:0 auto; padding-right: 210px;}
 .bodycontent{display: flex;
         flex-wrap: wrap}
 
-.image{max-width: 600px; width: "100%";
+.image{max-width: 800px; width: "100%";
     padding: 25px;}
 
 .trendimages {display: flex; flex-wrap: wrap;}
