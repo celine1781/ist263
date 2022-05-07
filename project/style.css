@@ -18,7 +18,8 @@ p {
     display: flex;
     flex-wrap: wrap;
 }
-nav {margin:0 auto; padding-right: 210px;}
+nav {margin:0 auto; padding-right: 200px;}
+nav a {color: #170117;}
 
 .bodycontent{display: flex;
         flex-wrap: wrap}
