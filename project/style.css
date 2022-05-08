@@ -18,7 +18,7 @@ p {
     display: flex;
     flex-wrap: wrap;
 }
-nav {margin:0 auto; padding-right: 180px;}
+nav {margin:0 auto; padding-right: 180px; text-align: center;}
 nav a {color: #170117;}
 
 .bodycontent{display: flex;
