@@ -23,10 +23,9 @@ nav a {color: #170117;}
 
 .bodycontent{display: flex;
         flex-wrap: wrap;
-      flex-direction: row;}
+      flex-direction: column;}
 
 .fullbody{display: flex;
-flex-wrap: wrap;
 flex-direction: column;}
 
 .image{max-width: 1000px; width: "100%";
