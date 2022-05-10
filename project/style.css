@@ -31,7 +31,12 @@ nav a {color: #170117;}
 .trendimages {display: flex; flex-wrap: wrap;}
 
 .scrolldesigners {max-height:400px;overflow: scroll;background-color:white;padding:10px;}
-.form-group {max-height:400px;overflow: scroll;background-color:white;padding:10px;}
+
+.form-group {max-height:400px;overflow: scroll;background-color:white;padding:10px;
+  display: flex;
+  flex-wrap: wrap;
+flex-direction: row;}
+
 a:hover{color: #03091a}
 
 .dropdown {display:flex ; flex-wrap:wrap ; justify-content:space-between;}
