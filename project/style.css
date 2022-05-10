@@ -22,8 +22,7 @@ nav {margin:0 auto; padding-right: 180px; text-align: center;}
 nav a {color: #170117;}
 
 .bodycontent{display: flex;
-        flex-wrap: wrap;
-      flex-direction: column;}
+        flex-wrap: wrap;}
 
 .fullbody{display: flex;
 flex-direction: column;}
