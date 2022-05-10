@@ -25,6 +25,10 @@ nav a {color: #170117;}
         flex-wrap: wrap;
       flex-direction: row;}
 
+.fullbody{display: flex;
+flex-wrap: wrap;
+flex-direction: column;}
+
 .image{max-width: 1000px; width: "100%";
     padding: 25px; justify-content: center;}
 
@@ -34,8 +38,7 @@ nav a {color: #170117;}
 
 .form-group {max-height:400px;overflow: scroll;background-color:white;padding:10px;
   display: flex;
-  flex-wrap: wrap;
-flex-direction:column;}
+  flex-wrap: wrap;}
 
 a:hover{color: #03091a}
 
