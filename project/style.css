@@ -18,16 +18,22 @@ p {
     display: flex;
     flex-wrap: wrap;
 }
-nav {margin:0 auto; padding-right: 180px; text-align: center;}
+nav {margin:0 auto; padding-right: 265px; text-align: center;}
 nav a {color: #170117;}
 
 .bodycontent{display: flex;
-        flex-wrap: wrap;}
+        flex-wrap: wrap;
+        flex-direction: row;}
 
 .fullbody{display: flex;
     flex-wrap:wrap;
         flex-direction: column;
         flex:1; order:2; padding: 3px; margin: 5px;}
+
+
+.entirebody{display: flex;
+          flex-wrap:wrap;
+              flex-direction: row;}
 
 .image{max-width: 1000px; width: "100%";
     padding: 25px; justify-content: center;}
@@ -39,7 +45,8 @@ nav a {color: #170117;}
 .bags {display: flex;
   flex-wrap: wrap;
 flex-direction: row}
-.form-group {max-height:400px;overflow: scroll;background-color:white;padding:10px;
+
+.form-group {max-height:400px; max-width: 250px; overflow: scroll;background-color:white;padding:10px;
   display: flex;
 flex-direction: column;}
 
