@@ -25,6 +25,7 @@ nav a {color: #170117;}
         flex-wrap: wrap;}
 
 .fullbody{display: flex;
+  flex-wrap: wrap;
 flex-direction: column;}
 
 .image{max-width: 1000px; width: "100%";
@@ -36,7 +37,8 @@ flex-direction: column;}
 
 .form-group {max-height:400px;overflow: scroll;background-color:white;padding:10px;
   display: flex;
-  flex-wrap: wrap;}
+  flex-wrap: wrap;
+flex-direction: column;}
 
 a:hover{color: #03091a}
 
