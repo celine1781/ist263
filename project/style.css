@@ -26,7 +26,8 @@ nav a {color: #170117;}
 
 .fullbody{display: flex;
     flex-wrap:wrap;
-        flex-direction: column;}
+        flex-direction: column;
+        flex:1; order:2; padding: 3px; margin: 5px;}
 
 .image{max-width: 1000px; width: "100%";
     padding: 25px; justify-content: center;}
@@ -35,6 +36,9 @@ nav a {color: #170117;}
 
 .scrolldesigners {max-height:400px;overflow: scroll;background-color:white;padding:10px;}
 
+.bags {display: flex;
+  flex-wrap: wrap;
+flex-direction: row}
 .form-group {max-height:400px;overflow: scroll;background-color:white;padding:10px;
   display: flex;
 flex-direction: column;}
