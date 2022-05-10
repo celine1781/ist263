@@ -35,7 +35,7 @@ nav a {color: #170117;}
 .form-group {max-height:400px;overflow: scroll;background-color:white;padding:10px;
   display: flex;
   flex-wrap: wrap;
-flex-direction:row;}
+flex-direction:column;}
 
 a:hover{color: #03091a}
 
