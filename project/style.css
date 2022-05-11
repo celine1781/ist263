@@ -1,5 +1,6 @@
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: 'Bayon', sans-serif;
+font-family: 'Metal', cursive;
   background-color: #efecf4
 }
 
@@ -12,7 +13,8 @@ h2 {
 
 p,
 li {
-  font: 1rem 'Segoe UI', sans-serif;
+  font: 1rem 'Bayon', sans-serif; 
+  font: 'Metal', cursive;
   list-style-type: none;
   padding: 0px 0px 5px 0px;
 
@@ -211,6 +213,8 @@ img {
   margin: 0 auto;
 }
 
+.favoritebags {margin: 0 auto;
+}
 
 #scroll-container {
   border: 3px solid #4B0092;
@@ -220,6 +224,8 @@ img {
 }
 
 #scroll-text {
+  font-family: 'Bayon', sans-serif;
+  font-family: 'Metal', cursive;
   height: 100%;
   text-align: center;
 
@@ -265,3 +271,5 @@ img {
     transform: translateY(-100%);
   }
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Bayon&display=swap');
