@@ -88,7 +88,7 @@ nav a {
 }
 
 .scrolldesigners {
-  max-height: 800px;
+  max-height: 600px;
   overflow: scroll;
   background-color: white;
   padding: 5px;
