@@ -44,9 +44,6 @@ nav a {color: #170117;}
 
 .scrolldesigners {max-height:400px;overflow: scroll;background-color:white;padding:5px;}
 
-.bags {display: flex;
-  flex-direction: row;}
-
 .form-group {max-height:400px; max-width: 250px; overflow: scroll;background-color:white;padding:10px;
   display: flex;
 flex-direction: column;}
@@ -122,3 +119,13 @@ img {vertical-align: center;}
 @media only screen and (max-width: 1000px) {
   .prev, .next,.text {font-size: 11px}
 }
+
+
+.bags {display: flex;
+  flex-direction: row;
+  flex-wrap:wrap;}
+   
+  .bagscontainer {
+      margin:0 auto;
+  }
+  
