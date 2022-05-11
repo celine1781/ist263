@@ -1,19 +1,19 @@
 body {
   font-family: 'Bayon', sans-serif;
-font-family: 'Metal', cursive;
-  background-color: #efecf4
+  font-family: 'Metal', cursive;
+  background-color: #F9ECE4;
 }
 
 h1,
 hr,
 h2 {
-  color: #080819;
+  color: #44585D;
   text-align: center;
 }
 
 p,
 li {
-  font: 1rem 'Bayon', sans-serif; 
+  font: 1rem 'Bayon', sans-serif;
   font: 'Metal', cursive;
   list-style-type: none;
   padding: 0px 0px 5px 0px;
@@ -84,7 +84,7 @@ nav a {
 
 .imgContainer {
   margin-left: 20px;
-  border: 5px solid #555;
+  border: 5px solid #7C9E7C;
 }
 
 .scrolldesigners {
@@ -92,7 +92,7 @@ nav a {
   overflow: scroll;
   background-color: white;
   padding: 5px;
-  border: 5px solid #555;
+  border: 5px solid #7C9E7C;
 }
 
 .form-group {
@@ -103,7 +103,7 @@ nav a {
   padding: 10px;
   display: flex;
   flex-direction: column;
-  border: 5px solid #555;
+  border: 5px solid #7C9E7C;
 }
 
 a:hover {
@@ -218,7 +218,7 @@ img {
 
 
 #scroll-container {
-  border: 3px solid #4B0092;
+  border: 3px solid #130319;
   border-radius: 5px;
   height: 100px;
   overflow: hidden;
