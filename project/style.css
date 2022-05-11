@@ -39,6 +39,9 @@ nav a {color: #170117;}
 
 .trendimages {display: flex; flex-wrap: wrap; flex-direction: row;}
 
+.easyimage{max-width: 350px; max-height: 800px; padding:5px; }
+.imgContainer {margin-left: 40px;}
+
 .scrolldesigners {max-height:400px;overflow: scroll;background-color:white;padding:5px;}
 
 .bags {display: flex;
