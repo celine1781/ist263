@@ -26,24 +26,23 @@ nav a {color: #170117;}
 
 .fullbody{display: flex;
     flex-wrap:wrap;
-        flex-direction: column;
-        flex:1; order:2; padding: 3px; margin: 5px;}
+        flex-direction: column;}
 
 
 .entirebody{display: flex;
           flex-wrap:wrap;
-              flex-direction: row;}
+              flex-direction: row;
+            justify-content: space-between;}
 
-.image{max-width: 1000px; width: "100%";
+.image{max-width: 1000px; max-height: 800px; width: "100%";
     padding: 25px; justify-content: center;}
 
-.trendimages {display: flex; flex-wrap: wrap;}
+.trendimages {display: flex; flex-wrap: wrap; flex-direction: row;}
 
-.scrolldesigners {max-height:400px;overflow: scroll;background-color:white;padding:10px;}
+.scrolldesigners {max-height:400px;overflow: scroll;background-color:white;padding:5px;}
 
 .bags {display: flex;
-  flex-wrap: wrap;
-flex-direction: row}
+  flex-direction: row;}
 
 .form-group {max-height:400px; max-width: 250px; overflow: scroll;background-color:white;padding:10px;
   display: flex;
