@@ -96,7 +96,7 @@ nav a {
 }
 
 .form-group {
-  max-height: 250px;
+  max-height: 200px;
   max-width: 250px;
   overflow: scroll;
   background-color: white;
