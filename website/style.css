@@ -1,0 +1,39 @@
+body {font-family: Georgia,'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; background-color: #61173c}
+h1, hr {color: #ff88c7;}
+h2, h3, h4 {color: #5dd5b1;}
+footer {color: #e6f0e8;}
+.evenrow{background-color: #ebcce3;}
+h1 {font-size: 2.5em;}
+h2 {font-size: 2em;} 
+h3 {font-size: 2em;}
+h4 {font-size: 1.5em}
+p {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+p, ul, td, th, dl, dt {color: #adadad;}
+a {color: #a37173;}
+p{color: #e6f0e8;}
+body {color: #d3a7be;}
+nav {background-color: #ffe5f2;}
+nav {padding: 10px; margin-bottom: 30px;}
+nav a {color: #170117;}
+nav a:hover {background-color: #d64fad;}
+nav {margin-bottom: 30px}
+.header {display:flex; justify-content: center;}
+.flexbox1 {display: flex; flex: 3; justify-content: space-between; margin-top: 50px;}
+.OtherSkills {background-color: #250814; border-radius: 1em;margin: 0 auto; flex: 1;padding: 10px;}
+.flexbox2 {display:flex; margin: 15px; padding: 15px; justify-content: space-around;flex-wrap: wrap;}
+.imageflex {display: flex; justify-content: center; max-width: 100%;width:100%;}
+.linkedinlink {color: blue}
+ @media only screen and (max-width:1024px) {
+     nav a {display:block;padding:10px;}
+     nav span {display:none;}
+    }
+    #skip {
+        position: absolute;
+        left: -999px;
+        padding: 5px;
+        }
+        
+    #skip:focus {
+        left: 10px;
+    }
+
